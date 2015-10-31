@@ -1,0 +1,42 @@
+# no items
+300
+0
+# no capacity
+0
+1
+0 0
+# no item fits in bag
+10
+3
+15 2
+17 2
+13 3
+# all items fit into bag
+100
+4
+2 15
+3 17
+4 18
+1 21 
+# tricky example
+100
+6
+100 40
+50 35
+45 18
+20 4
+10 10
+5 2
+# big example
+150
+10
+50 37
+34 28
+70 53
+39 32
+81 57
+62 44
+55 33
+46 55
+32 30
+68 54

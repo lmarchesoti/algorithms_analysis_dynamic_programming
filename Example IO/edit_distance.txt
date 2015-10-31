@@ -1,0 +1,28 @@
+#####################################################################
+# O programa deve ler a entrada no seguinte formato: 								#
+# Uma linha contendo o numero de testes															#
+# Duas linhas para cada teste, cada uma com uma palavra sem espacos	#
+
+# Exemplo de entrada:
+
+2
+exponential
+polynomial
+cheetos
+cheesy
+
+# A saida deve apresentar a distancia e a edicao das duas palavras 	#
+
+# Exemplo de saida:
+
+Distancia: 6
+Edicao: 
+e x p o n e n _ t i a l 
+_ _ p o l y n o m i a l 
+
+Distancia: 3
+Edicao: 
+c h e e t o s 
+c h e e _ s y 
+
+#####################################################################

@@ -1,0 +1,19 @@
+6
+# both different
+GGGGGGG
+AAAA
+# repeating sequences
+CGTACGTA
+ATGCATGC
+# palindromes
+ACGTGCA
+TGCACGT
+# equal
+CTCGAT
+CTCGAT
+# nice result
+AGCTAT
+GGCATAG
+# reasonably big input
+CTATCAGTTAGTC
+GTTAGCCTATGATT

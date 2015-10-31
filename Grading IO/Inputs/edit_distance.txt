@@ -1,0 +1,22 @@
+7
+# both different
+ukulele
+banjo
+# repeating sequences
+asdasdasd
+sdfsdfsdf
+# palindromes
+saias
+arara
+# equal
+hoje
+hoje
+# nice result
+exponencial
+polinomial
+# strange characters
+alf_n#6
+elk#!
+# reasonably big input
+amarelo-claro
+amordacamento

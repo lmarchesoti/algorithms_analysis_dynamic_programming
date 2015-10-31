@@ -1,0 +1,19 @@
+#1
+Peso: 0, Valor: 0
+Itens:
+
+#2
+Peso: 0, Valor: 0
+Itens:
+
+#3
+Peso: 10, Valor: 71
+Itens: 1, 2, 3, 4
+
+#4
+Peso: 100, Valor: 55
+Itens: 2, 3, 6
+
+#5
+Peso: 146 Valor: 139
+Itens: 

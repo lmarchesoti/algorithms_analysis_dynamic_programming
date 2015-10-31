@@ -1,0 +1,36 @@
+#1
+Tamanho: 0
+Alinhamento: 
+G G G G G G G 
+_ _ _ A A A A 
+
+#2
+Tamanho: 3
+Alinhamento:
+C G T A C G T _ A 
+_ A T G C A T G C 
+
+#3
+Tamanho: 2
+Alinhamento: 
+A C G T G C _ A 
+_ T G C A C G T 
+
+#4
+Tamanho: 6
+Alinhamento: 
+C T C G A T 
+C T C G A T 
+
+#5
+Tamanho: 4
+Alinhamento: 
+A G C _ T A T 
+G G C A T A G 
+
+#6
+Tamanho: 8
+Alinhamento: 
+C T A T C A G _ T T A _ G _ T C 
+G T _ T _ A G C C T A T G A T T 
+

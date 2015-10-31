@@ -1,0 +1,4 @@
+exponential
+polynomial
+cheetos
+cheesy

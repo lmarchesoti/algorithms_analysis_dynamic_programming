@@ -1,0 +1,41 @@
+#1
+Distancia: 7
+Edicao: 
+u k u l e l e 
+_ _ b a n j o 
+
+#2
+Distancia: 4
+Edicao: 
+a s d a s d a s d _ 
+_ s d f s d f s d f 
+
+#3
+Distancia: 4
+Edicao: 
+s a i a _ s 
+_ a r a r a 
+
+#4
+Distancia: 0
+Edicao: 
+h o j e 
+h o j e 
+
+#5
+Distancia: 6
+Edicao: 
+e x p o n e n _ c i a l 
+_ _ p o l i n o m i a l 
+
+#6
+Distancia: 5
+Edicao: 
+a l f _ n # 6 
+e l _ _ k # ! 
+
+#7
+Distancia: 9
+Edicao: 
+a m a r e l o - c l a r o 
+a m o r d a c a m e n t o 

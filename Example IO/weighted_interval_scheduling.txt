@@ -1,0 +1,36 @@
+#####################################################################
+# O programa deve ler a entrada no seguinte formato: 								#
+# Uma linha contendo o numero de intervalos n												#
+# n linhas cada uma contendo o inicio, o fim e o peso do intervalo, #
+# respectivamente																										#
+
+# Exemplo de entrada:
+
+5
+1 5 3
+2 7 2
+4 8 3
+3 5 4
+6 8 2
+8
+5 8 3
+2 5 7
+1 6 3
+4 6 1
+7 9 2
+3 6 5
+2 5 4
+6 8 3
+
+# A saida deve apresentar as tarefas escolhidas e o custo da 				#
+# solucao																														#
+
+# Exemplo de saida:
+
+Escalonamento: 4, 5
+Custo: 6
+
+Escalonamento: 2, 8
+Custo: 10
+
+#####################################################################

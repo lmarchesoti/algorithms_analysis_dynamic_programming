@@ -1,0 +1,27 @@
+#1
+Escalonamento:
+Custo: 0
+
+#2
+Escalonamento: 3
+Custo: 50
+
+#3
+Escalonamento: 2
+Custo: 7
+
+#4
+Escalonamento: 1, 2, 3, 4, 5
+Custo: 22
+
+#5
+Escalonamento: 4, 3
+Custo: 9
+
+#6
+Escalonamento: 3, 4, 5
+Custo: 10
+
+#7
+Escalonamento: 1, 4, 14, 18
+Custo: 11

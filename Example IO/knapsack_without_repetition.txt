@@ -1,0 +1,36 @@
+#####################################################################
+# O programa deve ler a entrada no seguinte formato: 								#
+# Uma linha com um numero que corresponde aa capacidade da mochila 	#
+# Uma linha com o numero de itens n que farao parte da lista 				#
+# n linhas cada qual com peso e valor do item em questao 						#
+
+# Exemplo de entrada:
+
+21
+7
+5 15
+7 18
+3 7
+10 27
+18 17
+11 20
+8 10
+15
+4
+2 5
+4 4
+7 2
+5 6
+
+# A saida do programa deve apresentar o peso da combinacao, o 			#
+# valor e quais itens foram escolhidos															#
+
+# Exemplo de saida:
+
+Peso: 20, Valor: 60
+Itens: 2, 3, 4
+
+Peso: 11, Valor: 15
+Itens: 1, 2, 4
+
+#####################################################################

@@ -1,0 +1,28 @@
+#####################################################################
+# O programa deve ler a entrada no seguinte formato: 								#
+# Uma linha contendo o numero de testes															#
+# Duas linhas para cada teste, cada uma contendo uma sequencia			#
+
+# Exemplo de entrada:
+
+2
+GAATTCAGTTA
+GGATCGA
+CTCTAGCATTAG
+GTGCACCCA
+
+# A saida deve apresentar o tamanho e o melhor alinhamento				 	#
+
+# Exemplo de saida:
+
+Tamanho: 6
+Alinhamento: 
+G _ A A T T C A G T T A
+G G _ A _ T C _ G _ _ A
+
+Tamanho: 4 
+Alinhamento:
+C T C T A G C A T T A G
+_ _ G T _ G C A C C C A
+
+#####################################################################

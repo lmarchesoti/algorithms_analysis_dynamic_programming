@@ -1,0 +1,44 @@
+#####################################################################
+# O programa deve ler a entrada no seguinte formato: 								#
+# Uma linha contendo o numero de linhas l e de estacoes e						#
+# l linhas com e + 2 numeros contendo os tempos de entrada, o tempo #
+# em cada estacao, e o tempo de saida de cada linha 								#
+# l linhas contendo o tempo de transferencia de cada estacao				#
+
+# Exemplo de entrada:
+
+2 6
+2 7 9 3 4 8 4 3
+4 8 5 6 4 5 7 2
+2 3 1 3 4
+2 1 2 2 1
+3 5
+1 6 1 1 1 6 2
+3 3 3 3 3 3 1
+1 1 2 3 4 5 3
+1 1 2 1
+1 1 1 1
+1 1 3 1
+
+# A saida deve apresentar o caminho mais rapido e o tempos				 	#
+
+# Exemplo de saida:
+
+Tempo: 39
+Caminho:
+linha 1, estacao 1
+linha 2, estacao 2
+linha 1, estacao 3
+linha 2, estacao 4
+linha 2, estacao 5
+linha 1, estacao 6
+
+Tempo: 14
+Caminho:
+linha 3, estacao 1
+linha 2, estacao 2
+linha 1, estacao 3
+linha 1, estacao 4
+linha 2, estacao 5
+
+#####################################################################
